@@ -45,7 +45,7 @@ webApp = angular.module(
 				}
 			}
 
-			users_preferred_language = "en-US";
+			//users_preferred_language = "en-US";
 
 			$translateProvider.useSanitizeValueStrategy('sanitize');
 
