@@ -14,7 +14,7 @@
 savageWorldsHindrances = Array(
 {
 	 name: {
-		 'en-US': 'All Thumbs',
+		 'en-US': 'Niezdara',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -30,7 +30,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'All Thumbs',
+		 'en-US': 'Niezdara',
 	},
 	 tag: 'all-thumbs',
 	 page: 'p28',
@@ -44,7 +44,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Anemic',
+		 'en-US': 'Chuchro',
 	},
 	 tag: 'anemic-minor',
 	 page: 'p28',
@@ -58,7 +58,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Arrogant',
+		 'en-US': 'Arogancki',
 	},
 	 tag: 'arrogant-major',
 	 page: 'p28',
@@ -88,7 +88,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Bad Eyes',
+		 'en-US': 'Kiepski wzrok',
 	},
 	 tag: 'bad-eyes-major',
 	 page: 'p28',
@@ -102,7 +102,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Bad Eyes',
+		 'en-US': 'Kiepski wzrok',
 	},
 	 tag: 'bad-eyes-minor',
 	 page: 'p28',
@@ -116,7 +116,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Bad Luck',
+		 'en-US': 'Pech',
 	},
 	 tag: 'bad-luck-major',
 	 page: 'p28',
@@ -130,7 +130,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Big Mouth',
+		 'en-US': 'D&#322;ugi j&#281;zyk',
 	},
 	 tag: 'big-mouth-minor',
 	 page: 'p28',
@@ -144,7 +144,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Blind',
+		 'en-US': '&#346;lepiec',
 	},
 	 tag: 'blind-major',
 	 page: 'p28',
@@ -160,7 +160,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Bloodthirsty',
+		 'en-US': 'Krwio&#380;erczy',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -178,7 +178,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Bloodthirsty',
+		 'en-US': 'Krwio&#380;erczy',
 	},
 	 tag: 'bloodthirsty-major',
 	 page: 'p28',
@@ -192,7 +192,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Cautious',
+		 'en-US': 'Ostro&#380;ny',
 	},
 	 tag: 'cautious-minor',
 	 page: 'p28',
@@ -206,7 +206,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Clueless',
+		 'en-US': 'T&#281;pak',
 	},
 	 tag: 'clueless-major',
 	 page: 'p28',
@@ -220,7 +220,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Code of Honor',
+		 'en-US': 'Honorowy',
 	},
 	 tag: 'code-of-honor-major',
 	 page: 'p29',
@@ -250,7 +250,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Curious',
+		 'en-US': 'Ciekawski',
 	},
 	 tag: 'curious-major',
 	 page: 'p29',
@@ -264,7 +264,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Deathwish',
+		 'en-US': 'Straceniec',
 	},
 	 tag: 'deathwish-minor',
 	 page: 'p29',
@@ -294,7 +294,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Delusion',
+		 'en-US': '&#346;wir',
 	},
 	 tag: 'delusion-minor',
 	 page: 'p29',
@@ -308,7 +308,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Delusion',
+		 'en-US': '&#346;wir',
 	},
 	 tag: 'delusion-major',
 	 page: 'p29',
@@ -322,7 +322,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Doubting Thomas',
+		 'en-US': 'Niedowiarek',
 	},
 	 tag: 'doubting-thomas-minor',
 	 page: 'p29',
@@ -336,7 +336,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Elderly',
+		 'en-US': 'Ramol',
 	},
 	 tag: 'elderly-major',
 	 page: 'p29',
@@ -351,9 +351,9 @@ charEffects: function (charObj) {
 			charObj.attributes.strength--;
 			charObj.attributes.vigor--;
 
-			if(charObj.attributes.strength < 1)
+			if(charObj.attributes.strength &lt; 1)
 				charObj.attributes.strength = 1;
-			if(charObj.attributes.vigor < 1)
+			if(charObj.attributes.vigor &lt; 1)
 				charObj.attributes.vigor = 1;
 
 			charObj.skill_points += 5;
@@ -361,7 +361,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Enemy',
+		 'en-US': 'Wr&oacute;g',
 	},
 	 tag: 'enemy-minor',
 	 page: 'p29',
@@ -375,7 +375,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Enemy',
+		 'en-US': 'Wr&oacute;g',
 	},
 	 tag: 'enemy-major',
 	 page: 'p29',
@@ -389,7 +389,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Greedy',
+		 'en-US': 'Chciwy',
 	},
 	 tag: 'greedy-minor',
 	 page: 'p29',
@@ -403,7 +403,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Greedy',
+		 'en-US': 'Chciwy',
 	},
 	 tag: 'greedy-major',
 	 page: 'p29',
@@ -417,7 +417,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Habit',
+		 'en-US': 'Nawyk',
 	},
 	 tag: 'habit-minor',
 	 page: 'p29',
@@ -431,7 +431,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Habit',
+		 'en-US': 'Nawyk',
 	},
 	 tag: 'habit-major',
 	 page: 'p31',
@@ -445,7 +445,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Hard of Hearing',
+		 'en-US': 'Przyg&#322;uchy',
 	},
 	 tag: 'hard-of-hearing-minor',
 	 page: 'p29',
@@ -459,7 +459,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Hard of Hearing',
+		 'en-US': 'Przyg&#322;uchy',
 	},
 	 tag: 'hard-of-hearing-major',
 	 page: 'p29',
@@ -473,7 +473,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Heroic',
+		 'en-US': 'Bohaterski',
 	},
 	 tag: 'heroic-major',
 	 page: 'p30',
@@ -505,7 +505,7 @@ charEffect: function( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Illiterate',
+		 'en-US': 'Analfabeta',
 	},
 	 tag: 'illiterate-minor',
 	 page: 'p30',
@@ -519,7 +519,7 @@ charEffect: function( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Lame',
+		 'en-US': 'Kulawy',
 	},
 	 tag: 'lame-major',
 	 page: 'p30',
@@ -535,7 +535,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Loyal',
+		 'en-US': 'Lojalny',
 	},
 	 tag: 'loyal-minor',
 	 page: 'p30',
@@ -549,7 +549,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Mean',
+		 'en-US': 'Wredny',
 	},
 	 tag: 'mean-minor',
 	 page: 'p30',
@@ -563,7 +563,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Obese',
+		 'en-US': 'Grubas',
 	},
 	 tag: 'obese-minor',
 	 page: 'p30',
@@ -580,7 +580,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'One Arm',
+		 'en-US': 'Jednor&#281;ki',
 	},
 	 tag: 'one-arm-major',
 	 page: 'p30',
@@ -594,7 +594,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'One Eye',
+		 'en-US': 'Jednooki',
 	},
 	 tag: 'one-eye-major',
 	 page: 'p30',
@@ -608,7 +608,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'One Leg',
+		 'en-US': 'Jednonogi',
 	},
 	 tag: 'one-leg-major',
 	 page: 'p30',
@@ -622,7 +622,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -640,7 +640,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -659,7 +659,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -677,7 +677,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -695,7 +695,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 	},
 	 tag: 'outsider-minor',
 	 page: 'p30',
@@ -709,7 +709,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Overconfident',
+		 'en-US': 'Chojrak',
 	},
 	 tag: 'overconfident-major',
 	 page: 'p30',
@@ -723,7 +723,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Pacifist',
+		 'en-US': 'Pacyfista',
 	},
 	 tag: 'pacifist-minor',
 	 page: 'p30',
@@ -737,7 +737,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Pacifist',
+		 'en-US': 'Pacyfista',
 	},
 	 tag: 'pacifist-major',
 	 page: 'p30',
@@ -751,7 +751,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Phobia',
+		 'en-US': 'Fobia',
 	},
 	 tag: 'phobia-minor',
 	 page: 'p30',
@@ -765,7 +765,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Phobia',
+		 'en-US': 'Fobia',
 	},
 	 tag: 'phobia-major',
 	 page: 'p30',
@@ -779,7 +779,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Poverty',
+		 'en-US': 'Biedak',
 	},
 	 tag: 'poverty-minor',
 	 page: 'p30',
@@ -793,7 +793,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Quirk',
+		 'en-US': 'Dziwactwo',
 	},
 	 tag: 'quirk-minor',
 	 page: 'p30',
@@ -875,7 +875,7 @@ charObj.getDerived().pace = 5;
 },
 {
 	 name: {
-		 'en-US': 'Small',
+		 'en-US': 'Konus',
 	},
 	 tag: 'small-major',
 	 page: 'p31',
@@ -889,7 +889,7 @@ charObj.getDerived().pace = 5;
 },
 {
 	 name: {
-		 'en-US': 'Stubborn',
+		 'en-US': 'Uparciuch',
 	},
 	 tag: 'stubborn-minor',
 	 page: 'p31',
@@ -903,7 +903,7 @@ charObj.getDerived().pace = 5;
 },
 {
 	 name: {
-		 'en-US': 'Ugly',
+		 'en-US': 'Brzydal',
 	},
 	 tag: 'ugly-minor',
 	 page: 'p31',
@@ -919,7 +919,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Vengeful',
+		 'en-US': 'M&#347;&#263;iwy',
 	},
 	 tag: 'vengeful-minor',
 	 page: 'p31',
@@ -933,7 +933,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Vengeful',
+		 'en-US': 'M&#347;&#263;iwy',
 	},
 	 tag: 'vengeful-major',
 	 page: 'p31',
@@ -947,7 +947,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Vow',
+		 'en-US': 'Zobowi&#261;zanie',
 	},
 	 tag: 'vow-major',
 	 page: 'p31',
@@ -961,7 +961,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Vow',
+		 'en-US': 'Zobowi&#261;zanie',
 	},
 	 tag: 'vow-minor',
 	 page: 'p31',
@@ -975,7 +975,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Wanted',
+		 'en-US': 'Poszukiwany',
 	},
 	 tag: 'wanted-major',
 	 page: 'p31',
@@ -989,7 +989,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Wanted',
+		 'en-US': 'Poszukiwany',
 	},
 	 tag: 'wanted-minor',
 	 page: 'p31',
@@ -1019,7 +1019,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Yellow',
+		 'en-US': 'Tch&oacute;rz',
 	},
 	 tag: 'yellow-major',
 	 page: 'p31',
@@ -1033,7 +1033,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Young',
+		 'en-US': 'Dzieciak',
 	},
 	 tag: 'young-major',
 	 page: 'p31',
@@ -1051,7 +1051,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': ' Doubting Thomas',
+		 'en-US': ' Niedowiarek',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},

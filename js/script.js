@@ -19309,7 +19309,7 @@ return false;
 savageWorldsHindrances = Array(
 {
 	 name: {
-		 'en-US': 'All Thumbs',
+		 'en-US': 'Niezdara',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -19325,7 +19325,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'All Thumbs',
+		 'en-US': 'Niezdara',
 	},
 	 tag: 'all-thumbs',
 	 page: 'p28',
@@ -19339,7 +19339,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Anemic',
+		 'en-US': 'Chuchro',
 	},
 	 tag: 'anemic-minor',
 	 page: 'p28',
@@ -19353,7 +19353,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Arrogant',
+		 'en-US': 'Arogancki',
 	},
 	 tag: 'arrogant-major',
 	 page: 'p28',
@@ -19383,7 +19383,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Bad Eyes',
+		 'en-US': 'Kiepski wzrok',
 	},
 	 tag: 'bad-eyes-major',
 	 page: 'p28',
@@ -19397,7 +19397,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Bad Eyes',
+		 'en-US': 'Kiepski wzrok',
 	},
 	 tag: 'bad-eyes-minor',
 	 page: 'p28',
@@ -19411,7 +19411,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Bad Luck',
+		 'en-US': 'Pech',
 	},
 	 tag: 'bad-luck-major',
 	 page: 'p28',
@@ -19425,7 +19425,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Big Mouth',
+		 'en-US': 'D&#322;ugi j&#281;zyk',
 	},
 	 tag: 'big-mouth-minor',
 	 page: 'p28',
@@ -19439,7 +19439,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'Blind',
+		 'en-US': '&#346;lepiec',
 	},
 	 tag: 'blind-major',
 	 page: 'p28',
@@ -19455,7 +19455,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Bloodthirsty',
+		 'en-US': 'Krwio&#380;erczy',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -19473,7 +19473,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Bloodthirsty',
+		 'en-US': 'Krwio&#380;erczy',
 	},
 	 tag: 'bloodthirsty-major',
 	 page: 'p28',
@@ -19487,7 +19487,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Cautious',
+		 'en-US': 'Ostro&#380;ny',
 	},
 	 tag: 'cautious-minor',
 	 page: 'p28',
@@ -19501,7 +19501,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Clueless',
+		 'en-US': 'T&#281;pak',
 	},
 	 tag: 'clueless-major',
 	 page: 'p28',
@@ -19515,7 +19515,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Code of Honor',
+		 'en-US': 'Honorowy',
 	},
 	 tag: 'code-of-honor-major',
 	 page: 'p29',
@@ -19545,7 +19545,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Curious',
+		 'en-US': 'Ciekawski',
 	},
 	 tag: 'curious-major',
 	 page: 'p29',
@@ -19559,7 +19559,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Deathwish',
+		 'en-US': 'Straceniec',
 	},
 	 tag: 'deathwish-minor',
 	 page: 'p29',
@@ -19589,7 +19589,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Delusion',
+		 'en-US': '&#346;wir',
 	},
 	 tag: 'delusion-minor',
 	 page: 'p29',
@@ -19603,7 +19603,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Delusion',
+		 'en-US': '&#346;wir',
 	},
 	 tag: 'delusion-major',
 	 page: 'p29',
@@ -19617,7 +19617,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Doubting Thomas',
+		 'en-US': 'Niedowiarek',
 	},
 	 tag: 'doubting-thomas-minor',
 	 page: 'p29',
@@ -19631,7 +19631,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Elderly',
+		 'en-US': 'Ramol',
 	},
 	 tag: 'elderly-major',
 	 page: 'p29',
@@ -19646,9 +19646,9 @@ charEffects: function (charObj) {
 			charObj.attributes.strength--;
 			charObj.attributes.vigor--;
 
-			if(charObj.attributes.strength < 1)
+			if(charObj.attributes.strength &lt; 1)
 				charObj.attributes.strength = 1;
-			if(charObj.attributes.vigor < 1)
+			if(charObj.attributes.vigor &lt; 1)
 				charObj.attributes.vigor = 1;
 
 			charObj.skill_points += 5;
@@ -19656,7 +19656,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Enemy',
+		 'en-US': 'Wr&oacute;g',
 	},
 	 tag: 'enemy-minor',
 	 page: 'p29',
@@ -19670,7 +19670,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Enemy',
+		 'en-US': 'Wr&oacute;g',
 	},
 	 tag: 'enemy-major',
 	 page: 'p29',
@@ -19684,7 +19684,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Greedy',
+		 'en-US': 'Chciwy',
 	},
 	 tag: 'greedy-minor',
 	 page: 'p29',
@@ -19698,7 +19698,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Greedy',
+		 'en-US': 'Chciwy',
 	},
 	 tag: 'greedy-major',
 	 page: 'p29',
@@ -19712,7 +19712,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Habit',
+		 'en-US': 'Nawyk',
 	},
 	 tag: 'habit-minor',
 	 page: 'p29',
@@ -19726,7 +19726,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Habit',
+		 'en-US': 'Nawyk',
 	},
 	 tag: 'habit-major',
 	 page: 'p31',
@@ -19740,7 +19740,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Hard of Hearing',
+		 'en-US': 'Przyg&#322;uchy',
 	},
 	 tag: 'hard-of-hearing-minor',
 	 page: 'p29',
@@ -19754,7 +19754,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Hard of Hearing',
+		 'en-US': 'Przyg&#322;uchy',
 	},
 	 tag: 'hard-of-hearing-major',
 	 page: 'p29',
@@ -19768,7 +19768,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Heroic',
+		 'en-US': 'Bohaterski',
 	},
 	 tag: 'heroic-major',
 	 page: 'p30',
@@ -19800,7 +19800,7 @@ charEffect: function( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Illiterate',
+		 'en-US': 'Analfabeta',
 	},
 	 tag: 'illiterate-minor',
 	 page: 'p30',
@@ -19814,7 +19814,7 @@ charEffect: function( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Lame',
+		 'en-US': 'Kulawy',
 	},
 	 tag: 'lame-major',
 	 page: 'p30',
@@ -19830,7 +19830,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Loyal',
+		 'en-US': 'Lojalny',
 	},
 	 tag: 'loyal-minor',
 	 page: 'p30',
@@ -19844,7 +19844,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Mean',
+		 'en-US': 'Wredny',
 	},
 	 tag: 'mean-minor',
 	 page: 'p30',
@@ -19858,7 +19858,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Obese',
+		 'en-US': 'Grubas',
 	},
 	 tag: 'obese-minor',
 	 page: 'p30',
@@ -19875,7 +19875,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'One Arm',
+		 'en-US': 'Jednor&#281;ki',
 	},
 	 tag: 'one-arm-major',
 	 page: 'p30',
@@ -19889,7 +19889,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'One Eye',
+		 'en-US': 'Jednooki',
 	},
 	 tag: 'one-eye-major',
 	 page: 'p30',
@@ -19903,7 +19903,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'One Leg',
+		 'en-US': 'Jednonogi',
 	},
 	 tag: 'one-leg-major',
 	 page: 'p30',
@@ -19917,7 +19917,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -19935,7 +19935,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -19954,7 +19954,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -19972,7 +19972,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -19990,7 +19990,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Outsider',
+		 'en-US': 'Odszczepieniec',
 	},
 	 tag: 'outsider-minor',
 	 page: 'p30',
@@ -20004,7 +20004,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Overconfident',
+		 'en-US': 'Chojrak',
 	},
 	 tag: 'overconfident-major',
 	 page: 'p30',
@@ -20018,7 +20018,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Pacifist',
+		 'en-US': 'Pacyfista',
 	},
 	 tag: 'pacifist-minor',
 	 page: 'p30',
@@ -20032,7 +20032,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Pacifist',
+		 'en-US': 'Pacyfista',
 	},
 	 tag: 'pacifist-major',
 	 page: 'p30',
@@ -20046,7 +20046,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Phobia',
+		 'en-US': 'Fobia',
 	},
 	 tag: 'phobia-minor',
 	 page: 'p30',
@@ -20060,7 +20060,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Phobia',
+		 'en-US': 'Fobia',
 	},
 	 tag: 'phobia-major',
 	 page: 'p30',
@@ -20074,7 +20074,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Poverty',
+		 'en-US': 'Biedak',
 	},
 	 tag: 'poverty-minor',
 	 page: 'p30',
@@ -20088,7 +20088,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 2;
 },
 {
 	 name: {
-		 'en-US': 'Quirk',
+		 'en-US': 'Dziwactwo',
 	},
 	 tag: 'quirk-minor',
 	 page: 'p30',
@@ -20170,7 +20170,7 @@ charObj.getDerived().pace = 5;
 },
 {
 	 name: {
-		 'en-US': 'Small',
+		 'en-US': 'Konus',
 	},
 	 tag: 'small-major',
 	 page: 'p31',
@@ -20184,7 +20184,7 @@ charObj.getDerived().pace = 5;
 },
 {
 	 name: {
-		 'en-US': 'Stubborn',
+		 'en-US': 'Uparciuch',
 	},
 	 tag: 'stubborn-minor',
 	 page: 'p31',
@@ -20198,7 +20198,7 @@ charObj.getDerived().pace = 5;
 },
 {
 	 name: {
-		 'en-US': 'Ugly',
+		 'en-US': 'Brzydal',
 	},
 	 tag: 'ugly-minor',
 	 page: 'p31',
@@ -20214,7 +20214,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Vengeful',
+		 'en-US': 'M&#347;&#263;iwy',
 	},
 	 tag: 'vengeful-minor',
 	 page: 'p31',
@@ -20228,7 +20228,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Vengeful',
+		 'en-US': 'M&#347;&#263;iwy',
 	},
 	 tag: 'vengeful-major',
 	 page: 'p31',
@@ -20242,7 +20242,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Vow',
+		 'en-US': 'Zobowi&#261;zanie',
 	},
 	 tag: 'vow-major',
 	 page: 'p31',
@@ -20256,7 +20256,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Vow',
+		 'en-US': 'Zobowi&#261;zanie',
 	},
 	 tag: 'vow-minor',
 	 page: 'p31',
@@ -20270,7 +20270,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Wanted',
+		 'en-US': 'Poszukiwany',
 	},
 	 tag: 'wanted-major',
 	 page: 'p31',
@@ -20284,7 +20284,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Wanted',
+		 'en-US': 'Poszukiwany',
 	},
 	 tag: 'wanted-minor',
 	 page: 'p31',
@@ -20314,7 +20314,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Yellow',
+		 'en-US': 'Tch&oacute;rz',
 	},
 	 tag: 'yellow-major',
 	 page: 'p31',
@@ -20328,7 +20328,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Young',
+		 'en-US': 'Dzieciak',
 	},
 	 tag: 'young-major',
 	 page: 'p31',
@@ -20346,7 +20346,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': ' Doubting Thomas',
+		 'en-US': ' Niedowiarek',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -40465,567 +40465,6 @@ The entries in this file are from Savage Worlds Role Playing Game and are owned 
 DEVELOPERS: Do Not Edit or Pull Request this file, it is auto generated from a rudimentary admin area!
 */
 
-var savageWorldsGearWeapons = Array(
-{
-	 name: {
-		 'en-US': 'Axe',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'axe',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 4,
-		 'range': '0',
-		 'damage': 'd6',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 0,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 6,
-		 'rof': 0,
-		 'cost': 200,
-		 'ammo_item': 0,
-		 'weight': 2,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Battle Axe',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'battle-axe',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 4,
-		 'range': '0',
-		 'damage': 'd8',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 0,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 8,
-		 'rof': 0,
-		 'cost': 300,
-		 'ammo_item': 0,
-		 'weight': 10,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Dagger',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'dagger',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 3,
-		 'range': '0',
-		 'damage': 'd4',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 0,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 0,
-		 'rof': 0,
-		 'cost': 25,
-		 'ammo_item': 0,
-		 'weight': 1,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Flail',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': 'Ignores Shield Parry and Cover bonus',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'flail',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 3,
-		 'range': '0',
-		 'damage': 'd6',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 0,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 6,
-		 'rof': 0,
-		 'cost': 200,
-		 'ammo_item': 0,
-		 'weight': 8,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Great Axe',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': 'AP 1, Parry -1, 2 hands',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'great-axe',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 3,
-		 'range': '0',
-		 'damage': 'd10',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 1,
-		 'ap': 1,
-		 'requires_2_hands': 1,
-		 'parry_modifier': -1,
-		 'min_str': 0,
-		 'rof': 0,
-		 'cost': 500,
-		 'ammo_item': 0,
-		 'weight': 15,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Great Sword',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': 'Parry -1, 2 Hands',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'great-sword',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 3,
-		 'range': '0',
-		 'damage': 'd10',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 1,
-		 'ap': 0,
-		 'requires_2_hands': 1,
-		 'parry_modifier': -1,
-		 'min_str': 0,
-		 'rof': 0,
-		 'cost': 400,
-		 'ammo_item': 0,
-		 'weight': 12,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Halberd',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'halberd',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 5,
-		 'range': '0',
-		 'damage': 'd8',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 1,
-		 'ap': 0,
-		 'requires_2_hands': 1,
-		 'parry_modifier': 0,
-		 'min_str': 8,
-		 'rof': 0,
-		 'cost': 250,
-		 'ammo_item': 0,
-		 'weight': 15,
-		 'reach': 1
-},
-{
-	 name: {
-		 'en-US': 'Katana',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'katana',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 3,
-		 'range': '0',
-		 'damage': 'd6+2',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 2,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 6,
-		 'rof': 0,
-		 'cost': 1000,
-		 'ammo_item': 0,
-		 'weight': 6,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Lance',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': 'mounted combat only, AP 2 when charging',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'lance',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 5,
-		 'range': '0',
-		 'damage': 'd8',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 2,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 8,
-		 'rof': 0,
-		 'cost': 300,
-		 'ammo_item': 0,
-		 'weight': 10,
-		 'reach': 2
-},
-{
-	 name: {
-		 'en-US': 'Long Sword',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': 'Includes Scimitars',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'long-sword',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 3,
-		 'range': '0',
-		 'damage': 'd8',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 0,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 8,
-		 'rof': 0,
-		 'cost': 300,
-		 'ammo_item': 0,
-		 'weight': 8,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Maul',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'maul',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 4,
-		 'range': '0',
-		 'damage': 'd8',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 1,
-		 'requires_2_hands': 1,
-		 'ap': 2,
-		 'requires_2_hands': 1,
-		 'parry_modifier': -1,
-		 'min_str': 8,
-		 'rof': 0,
-		 'cost': 200,
-		 'ammo_item': 0,
-		 'weight': 20,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Pike',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'pike',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 5,
-		 'range': '0',
-		 'damage': 'd8',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 1,
-		 'ap': 0,
-		 'requires_2_hands': 1,
-		 'parry_modifier': 0,
-		 'min_str': 8,
-		 'rof': 0,
-		 'cost': 400,
-		 'ammo_item': 0,
-		 'weight': 25,
-		 'reach': 2
-},
-{
-	 name: {
-		 'en-US': 'Rapier',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'rapier',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 3,
-		 'range': '0',
-		 'damage': 'd4',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 0,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 1,
-		 'min_str': 0,
-		 'rof': 0,
-		 'cost': 150,
-		 'ammo_item': 0,
-		 'weight': 3,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Short Sword',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': 'Includes Calvary Sabers',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'short-sword',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 3,
-		 'range': '0',
-		 'damage': 'd6',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 0,
-		 'ap': 0,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 6,
-		 'rof': 0,
-		 'cost': 200,
-		 'ammo_item': 0,
-		 'weight': 4,
-		 'reach': 0
-},
-{
-	 name: {
-		 'en-US': 'Spear',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'spear',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 5,
-		 'range': '0',
-		 'damage': 'd6',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 1,
-		 'ap': 0,
-		 'requires_2_hands': 1,
-		 'parry_modifier': 1,
-		 'min_str': 6,
-		 'rof': 0,
-		 'cost': 10,
-		 'ammo_item': 0,
-		 'weight': 5,
-		 'reach': 1
-},
-{
-	 name: {
-		 'en-US': 'Staff',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'staff',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 5,
-		 'range': '0',
-		 'damage': 'd4',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 0,
-		 'requires_2_hands': 1,
-		 'ap': 0,
-		 'requires_2_hands': 1,
-		 'parry_modifier': 1,
-		 'min_str': 0,
-		 'rof': 0,
-		 'cost': 10,
-		 'ammo_item': 0,
-		 'weight': 8,
-		 'reach': 1
-},
-{
-	 name: {
-		 'en-US': 'Warhammer',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-	 notes: {
-		 'en-US': '',
-		 'pt-BR': '',
-		 'de-DE': '',
-	},
-		 'tag': 'warhammer',
-		 'book': 1,
-		 'page': 'p52',
-		 'class': 0,
-		 'general': 2,
-		 'type': 4,
-		 'range': '0',
-		 'damage': 'd6',
-		 'damage_strength': 1,
-		 'ap_vs_rigid_only': 1,
-		 'requires_2_hands': 0,
-		 'ap': 1,
-		 'requires_2_hands': 0,
-		 'parry_modifier': 0,
-		 'min_str': 6,
-		 'rof': 0,
-		 'cost': 250,
-		 'ammo_item': 0,
-		 'weight': 8,
-		 'reach': 0
-}
-);
-
-
-/*
-
-Data here is NOT Licensed under the Creative Commons and is owned by Pinnacle Entertainment Group.
-
-This product references the Savage Worlds game system, available from Pinnacle Entertainment Group at www.peginc.com.
-Savage Worlds and all associated logos and trademarks are copyrights of Pinnacle Entertainment Group. Used with permission.
-Pinnacle makes no representation or warranty as to the quality, viability, or suitability for purpose of this product.
-
-The entries in this file are from Savage Worlds Role Playing Game and are owned by Pinnacle Entertainment Group.
-
-DEVELOPERS: Do Not Edit or Pull Request this file, it is auto generated from a rudimentary admin area!
-*/
-
 var savageWorldsGearHandWeapons = Array(
 {
 	 name: {
@@ -45683,6 +45122,567 @@ var savageWorldsGearRangedWeapons = Array(
 );
 
 
+/*
+
+Data here is NOT Licensed under the Creative Commons and is owned by Pinnacle Entertainment Group.
+
+This product references the Savage Worlds game system, available from Pinnacle Entertainment Group at www.peginc.com.
+Savage Worlds and all associated logos and trademarks are copyrights of Pinnacle Entertainment Group. Used with permission.
+Pinnacle makes no representation or warranty as to the quality, viability, or suitability for purpose of this product.
+
+The entries in this file are from Savage Worlds Role Playing Game and are owned by Pinnacle Entertainment Group.
+
+DEVELOPERS: Do Not Edit or Pull Request this file, it is auto generated from a rudimentary admin area!
+*/
+
+var savageWorldsGearWeapons = Array(
+{
+	 name: {
+		 'en-US': 'Axe',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'axe',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 4,
+		 'range': '0',
+		 'damage': 'd6',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 0,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 6,
+		 'rof': 0,
+		 'cost': 200,
+		 'ammo_item': 0,
+		 'weight': 2,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Battle Axe',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'battle-axe',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 4,
+		 'range': '0',
+		 'damage': 'd8',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 0,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 8,
+		 'rof': 0,
+		 'cost': 300,
+		 'ammo_item': 0,
+		 'weight': 10,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Dagger',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'dagger',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 3,
+		 'range': '0',
+		 'damage': 'd4',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 0,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 0,
+		 'rof': 0,
+		 'cost': 25,
+		 'ammo_item': 0,
+		 'weight': 1,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Flail',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': 'Ignores Shield Parry and Cover bonus',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'flail',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 3,
+		 'range': '0',
+		 'damage': 'd6',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 0,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 6,
+		 'rof': 0,
+		 'cost': 200,
+		 'ammo_item': 0,
+		 'weight': 8,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Great Axe',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': 'AP 1, Parry -1, 2 hands',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'great-axe',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 3,
+		 'range': '0',
+		 'damage': 'd10',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 1,
+		 'ap': 1,
+		 'requires_2_hands': 1,
+		 'parry_modifier': -1,
+		 'min_str': 0,
+		 'rof': 0,
+		 'cost': 500,
+		 'ammo_item': 0,
+		 'weight': 15,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Great Sword',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': 'Parry -1, 2 Hands',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'great-sword',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 3,
+		 'range': '0',
+		 'damage': 'd10',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 1,
+		 'ap': 0,
+		 'requires_2_hands': 1,
+		 'parry_modifier': -1,
+		 'min_str': 0,
+		 'rof': 0,
+		 'cost': 400,
+		 'ammo_item': 0,
+		 'weight': 12,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Halberd',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'halberd',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 5,
+		 'range': '0',
+		 'damage': 'd8',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 1,
+		 'ap': 0,
+		 'requires_2_hands': 1,
+		 'parry_modifier': 0,
+		 'min_str': 8,
+		 'rof': 0,
+		 'cost': 250,
+		 'ammo_item': 0,
+		 'weight': 15,
+		 'reach': 1
+},
+{
+	 name: {
+		 'en-US': 'Katana',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'katana',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 3,
+		 'range': '0',
+		 'damage': 'd6+2',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 2,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 6,
+		 'rof': 0,
+		 'cost': 1000,
+		 'ammo_item': 0,
+		 'weight': 6,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Lance',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': 'mounted combat only, AP 2 when charging',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'lance',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 5,
+		 'range': '0',
+		 'damage': 'd8',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 2,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 8,
+		 'rof': 0,
+		 'cost': 300,
+		 'ammo_item': 0,
+		 'weight': 10,
+		 'reach': 2
+},
+{
+	 name: {
+		 'en-US': 'Long Sword',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': 'Includes Scimitars',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'long-sword',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 3,
+		 'range': '0',
+		 'damage': 'd8',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 0,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 8,
+		 'rof': 0,
+		 'cost': 300,
+		 'ammo_item': 0,
+		 'weight': 8,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Maul',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'maul',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 4,
+		 'range': '0',
+		 'damage': 'd8',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 1,
+		 'requires_2_hands': 1,
+		 'ap': 2,
+		 'requires_2_hands': 1,
+		 'parry_modifier': -1,
+		 'min_str': 8,
+		 'rof': 0,
+		 'cost': 200,
+		 'ammo_item': 0,
+		 'weight': 20,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Pike',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'pike',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 5,
+		 'range': '0',
+		 'damage': 'd8',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 1,
+		 'ap': 0,
+		 'requires_2_hands': 1,
+		 'parry_modifier': 0,
+		 'min_str': 8,
+		 'rof': 0,
+		 'cost': 400,
+		 'ammo_item': 0,
+		 'weight': 25,
+		 'reach': 2
+},
+{
+	 name: {
+		 'en-US': 'Rapier',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'rapier',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 3,
+		 'range': '0',
+		 'damage': 'd4',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 0,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 1,
+		 'min_str': 0,
+		 'rof': 0,
+		 'cost': 150,
+		 'ammo_item': 0,
+		 'weight': 3,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Short Sword',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': 'Includes Calvary Sabers',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'short-sword',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 3,
+		 'range': '0',
+		 'damage': 'd6',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 0,
+		 'ap': 0,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 6,
+		 'rof': 0,
+		 'cost': 200,
+		 'ammo_item': 0,
+		 'weight': 4,
+		 'reach': 0
+},
+{
+	 name: {
+		 'en-US': 'Spear',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'spear',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 5,
+		 'range': '0',
+		 'damage': 'd6',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 1,
+		 'ap': 0,
+		 'requires_2_hands': 1,
+		 'parry_modifier': 1,
+		 'min_str': 6,
+		 'rof': 0,
+		 'cost': 10,
+		 'ammo_item': 0,
+		 'weight': 5,
+		 'reach': 1
+},
+{
+	 name: {
+		 'en-US': 'Staff',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'staff',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 5,
+		 'range': '0',
+		 'damage': 'd4',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 0,
+		 'requires_2_hands': 1,
+		 'ap': 0,
+		 'requires_2_hands': 1,
+		 'parry_modifier': 1,
+		 'min_str': 0,
+		 'rof': 0,
+		 'cost': 10,
+		 'ammo_item': 0,
+		 'weight': 8,
+		 'reach': 1
+},
+{
+	 name: {
+		 'en-US': 'Warhammer',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+	 notes: {
+		 'en-US': '',
+		 'pt-BR': '',
+		 'de-DE': '',
+	},
+		 'tag': 'warhammer',
+		 'book': 1,
+		 'page': 'p52',
+		 'class': 0,
+		 'general': 2,
+		 'type': 4,
+		 'range': '0',
+		 'damage': 'd6',
+		 'damage_strength': 1,
+		 'ap_vs_rigid_only': 1,
+		 'requires_2_hands': 0,
+		 'ap': 1,
+		 'requires_2_hands': 0,
+		 'parry_modifier': 0,
+		 'min_str': 6,
+		 'rof': 0,
+		 'cost': 250,
+		 'ammo_item': 0,
+		 'weight': 8,
+		 'reach': 0
+}
+);
+
+
 availableLanguages.push ({
 	english_name: "German",
 	native_name: "Deutsch",
@@ -45940,14 +45940,14 @@ availableLanguages.push ({
 			BUTTON_LANG_DE: 'German',
 			BUTTON_LANG_BR: 'Brazilian',
 			BUTTON_LANG_RU: 'Russian',
-			APP_TITLE: 'Savage Worlds Tools',
-			INDEX_WELCOME: 'Welcome',
+			APP_TITLE: 'Narzędzia Savage Worlds',
+			INDEX_WELCOME: 'Witaj',
 			INDEX_H3_CORE: 'Savage Worlds Core Tools',
 			INDEX_H3_SCIFI: 'Sci-Fi Companion Tools',
 			INDEX_BUTTON_CORE_DICE: 'Flexible Dice Roller',
 			INDEX_BUTTON_CORE_RAISE: 'Raise Calculator',
 			INDEX_BUTTON_CORE_EXTRAS: 'Extras Database',
-			INDEX_BUTTON_CORE_CHAR: 'Character Maker',
+			INDEX_BUTTON_CORE_CHAR: 'Tworzenie postaci',
 			INDEX_BUTTON_CORE_MASSBATTLES: 'Mass Battles',
 			INDEX_BUTTON_SCIFI_POWER: 'Power Armor Maker',
 			INDEX_BUTTON_SCIFI_ROBOT: 'Robot Maker',
@@ -45960,12 +45960,12 @@ availableLanguages.push ({
 			GENERAL_IN_USE: 'In Use',
 			GENERAL_TRY_AGAIN: 'Try Again',
 			GENERAL_NEW: 'New',
-			GENERAL_NAME: 'Name',
-			GENERAL_RACE: 'Race',
+			GENERAL_NAME: 'Imię',
+			GENERAL_RACE: 'Rasa',
 			GENERAL_FREE: 'free',
-			GENERAL_DESCRIPTION: 'Description',
+			GENERAL_DESCRIPTION: 'Opis',
 			GENERAL_BACKGROUND: 'Background',
-			GENERAL_GENDER: 'Gender',
+			GENERAL_GENDER: 'Płeć',
 			GENERAL_LOAD: 'Load',
 			GENERAL_SAVE: 'Save',
 			GENERAL_EDIT: 'Edit',
@@ -45976,8 +45976,8 @@ availableLanguages.push ({
 			GENERAL_BOOK: 'Book',
 			GENERAL_PRINT: 'Print',
 			GENERAL_PDF: 'PDF',
-			GENERAL_YES: 'Yes',
-			GENERAL_NO: 'No',
+			GENERAL_YES: 'Tak',
+			GENERAL_NO: 'Nie',
 			GENERAL_CLOSE: 'Close',
 			GENERAL_CANCEL: 'Cancel',
 			GENERAL_REMOVE: 'Remove',
@@ -45990,10 +45990,10 @@ availableLanguages.push ({
 			GENERAL_PORTRAIT: 'Portrait',
 			GENERAL_LANDSCAPE: 'Landscape',
 			GENERAL_SANITY: 'Sanity',
-			GENERAL_DERIVED: 'Derived',
-			GENERAL_TRAITS: 'Traits',
-			GENERAL_MALE: 'Male',
-			GENERAL_FEMALE: 'Female',
+			GENERAL_DERIVED: 'Pochodne',
+			GENERAL_TRAITS: 'Współczynniki',
+			GENERAL_MALE: 'Mężczyzna',
+			GENERAL_FEMALE: 'Kobieta',
 			GENERAL_OTHER: 'Other',
 			TRAINER_CORRECT_ANSWERS: 'Correct Answers',
 			TRAINER_TOTAL_QUESTIONS: 'Total Questions',
@@ -46006,25 +46006,25 @@ availableLanguages.push ({
 			GENERAL_POWERS: 'Powers',
 			GENERAL_CYBERWARE: 'Cyberware',
 			GENERAL_STRAIN: 'Strain',
-			GENERAL_SETTINGS: 'Settings',
+			GENERAL_SETTINGS: 'Ustawienia',
 			GENERAL_SELECT_LANGUAGE: 'Select Language',
 			GENERAL_SELECT: '-Select-',
-			GENERAL_ATTRIBUTES: 'Attributes',
-			ATTRIBUTE_AGILITY: 'Agility',
-			ATTRIBUTE_SMARTS: 'Smarts',
-			ATTRIBUTE_SPIRIT: 'Spirit',
-			ATTRIBUTE_STRENGTH: 'Strength',
-			ATTRIBUTE_VIGOR: 'Vigor',
-			GENERAL_SKILLS: 'Skills',
+			GENERAL_ATTRIBUTES: 'Cechy',
+			ATTRIBUTE_AGILITY: 'Zręczność (Zr)',
+			ATTRIBUTE_SMARTS: 'Spryt (Sp)',
+			ATTRIBUTE_SPIRIT: 'Duch (Du)',
+			ATTRIBUTE_STRENGTH: 'Siła (Si)',
+			ATTRIBUTE_VIGOR: 'Wigor (Wi)',
+			GENERAL_SKILLS: 'Umiejętności',
 			EXTRAS_H4_ABILITIES: 'Abilities',
 			EXTRAS_BUY_BOOK: 'Buy this book',
 			GENERAL_TOUGHNESS: 'Toughness',
-			GENERAL_PACE: 'Pace',
-			GENERAL_CHARISMA: 'Charisma',
-			GENERAL_PARRY: 'Parry',
-			GENERAL_EDGES_AND_HINDRANCES: 'Edges & Hindrances',
-			GENERAL_HINDRANCES: 'Hindrances',
-			GENERAL_EDGES: 'Edges',
+			GENERAL_PACE: 'Tempo',
+			GENERAL_CHARISMA: 'Charyzma',
+			GENERAL_PARRY: 'Obrona',
+			GENERAL_EDGES_AND_HINDRANCES: 'Przewagi & Zawady',
+			GENERAL_HINDRANCES: 'Zawady',
+			GENERAL_EDGES: 'Przewagi',
 			GENERAL_PERKS: 'Perks',
 			GENERAL_GEAR: 'Gear',
 			CHARGEN_INTRO_MAKE_PC: 'Let\'s make a Player Character',
@@ -46047,8 +46047,8 @@ availableLanguages.push ({
 			CHARGEN_RACIAL_PARENTHETICAL: '(racial)',
 			CHARGEN_SETTING_PARENTHETICAL: '(setting)',
 			CHARGEN_SPC_AB: 'Arcane Background (Super Powers, Setting Rule)',
-			CHARGEN_ADD_HINDRANCE: 'Add Hindrance',
-			CHARGEN_ADD_EDGE: 'Add Edge',
+			CHARGEN_ADD_HINDRANCE: 'Dodaj zawadę',
+			CHARGEN_ADD_EDGE: 'Dodaj przewagę',
 			CHARGEN_ADD_GEAR: 'Add Gear',
 			CHARGEN_ADD_ARMOR: 'Add Armor',
 			CHARGEN_ADD_WEAPON: 'Add Weapon',
@@ -46067,8 +46067,8 @@ availableLanguages.push ({
 			CHARGEN_PERKS_FUNDS: 'Increase starting funds by 100%',
 			CHARGEN_NO_EDGES_AVAILABLE: 'You have no edges available',
 			CHARGEN_NO_POWERS_SELECTED: 'You have no powers selected',
-			CHARGEN_SELECT_HINDRANCE: 'Select a Hindrance',
-			CHARGEN_SELECT_EDGE: 'Select an Edge',
+			CHARGEN_SELECT_HINDRANCE: 'Wybierz zawadę',
+			CHARGEN_SELECT_EDGE: 'Wybierz przewagę',
 			CHARGEN_ARCANE_BACKGROUND: 'Arcane Background',
 			CHARGEN_SELECTED_POWERS: 'Selected Powers',
 			CHARGEN_NO_ARCANE_EDGE: 'You do not have an Arcane Background edge selected',
@@ -46076,7 +46076,7 @@ availableLanguages.push ({
 			CHARGEN_KNOWN_LANGUAGES: 'Known Languages',
 			CHARGEN_CULT_NAT_LANG: 'Cultural/National Language',
 			CHARGEN_ADDITIONAL_LANGS: 'Additional Languages',
-			CHARGEN_VALIDATION_TOO_MANY_EDGES: 'You have too many edges',
+			CHARGEN_VALIDATION_TOO_MANY_EDGES: 'Masz za dużo przewag',
 			CHARGEN_VALIDATION_TOO_MANY_ADVANCEMENTS: 'You have too many advancements selected for your XP',
 			CHARGEN_VALIDATION_TOO_MANY_ATTRIBUTES: 'You have spent too many attribute points',
 			CHARGEN_VALIDATION_TOO_MANY_SKILLS: 'You have spent too many skill points',
@@ -46095,15 +46095,15 @@ availableLanguages.push ({
 			CHARGEN_VALIDATION_ADVANCEMENT_INVALID_EDGE: 'The edge selected edge \'{value}\' does not meet previous requirements.',
 			CHARGEN_SELECT_ARCANE_BG: 'Select an Arcane Background',
 			CHARGEN_BELOW_STR_WEAPON: 'You have a weapon equipped which has a minimum strength higher than your current strength. There will be penalties when using this weapon.',
-			CHARGEN_POWER_POINTS: 'Power Points',
+			CHARGEN_POWER_POINTS: 'Punkty mocy',
 			CHARGEN_POWER_POINTS_AVAILABLE: 'Available Power Points',
 			CHARGEN_POWERS_AVAILABLE: 'Powers Available',
 			CHARGEN_POWERS_USED: 'Used Powers',
-			CHARGEN_ADD_POWER: 'Add Power',
-			CHARGEN_MAJOR_HINDRANCE: 'major',
-			CHARGEN_MINOR_HINDRANCE: 'minor',
+			CHARGEN_ADD_POWER: 'Dodaj moc',
+			CHARGEN_MAJOR_HINDRANCE: 'poważna',
+			CHARGEN_MINOR_HINDRANCE: 'drobna',
 			CHARGEN_HINDRANCE_SPECIFY_PLACEHOLDER: 'Please elaborate',
-			CHARGEN_CHARACTER_SELECT_POWERS: 'Select Powers',
+			CHARGEN_CHARACTER_SELECT_POWERS: 'Wybierz moce',
 			CHARGEN_CHARACTER_SELECT_GEAR: 'Select Gear',
 			CHARGEN_CHARACTER_SELECT_ADVANCEMENTS: 'Select Advancements',
 			CHARGEN_STEP1_SELECT_POWER_REQUIRED: 'Step 1: Select a Power (required)',
@@ -46161,11 +46161,11 @@ availableLanguages.push ({
 			CHARGEN_XP: 'XP',
 			CHARGEN_SELECTED_RANK: 'Selected Rank',
 			CHARGEN_RANK: 'Rank',
-			CHARGEN_RANK_NOVICE: 'Novice',
-			CHARGEN_RANK_SEASONED: 'Seasoned',
-			CHARGEN_RANK_VETERAN: 'Veteran',
-			CHARGEN_RANK_HEROIC: 'Heroic',
-			CHARGEN_RANK_LEGENDARY: 'Legendary',
+			CHARGEN_RANK_NOVICE: 'Nowicjusz',
+			CHARGEN_RANK_SEASONED: 'Doświadczony',
+			CHARGEN_RANK_VETERAN: 'Weteran',
+			CHARGEN_RANK_HEROIC: 'Heros',
+			CHARGEN_RANK_LEGENDARY: 'Legenda',
 			CHARGEN_ADVANCEMENT_NOT_SELECTED: 'No advancement selected',
 			CHARGEN_ADVANCEMENT_NEW_EDGE: 'Gain a new edge',
 			CHARGEN_ADVANCEMENT_INCREASE_SKILL: 'Increase skill equal or greater to linked attribute',
@@ -46184,7 +46184,7 @@ availableLanguages.push ({
 			DICE_ROLL_TYPE_DAMAGE: 'Damage Roll',
 			DICE_NO_DICE_THROWN: 'No dice have been thrown',
 			DICE_TOTAL_ROLL: 'Total Roll',
-			DICE_TARGET_NUMBER: 'Target Number',
+			DICE_TARGET_NUMBER: 'Poziom Trudności',
 			DICE_BASE_TOUGHNESS: 'Base Toughness',
 			DICE_ARMOR: 'Armor',
 			DICE_WEAPON_AP: 'Weapon\'s AP',
