@@ -54,7 +54,7 @@ savageWorldsRaces = Array(
 {
 	 id: 6,
 	 name: {
-		 'en-US': 'Dwarf',
+		 'en-US': 'Krasnolud',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Гном',
@@ -82,7 +82,7 @@ savageWorldsRaces = Array(
 {
 	 id: 9,
 	 name: {
-		 'en-US': 'Half-Elf (elf heritage)',
+		 'en-US': 'Półelf (elfie pochodzenie)',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Полуэльф (наследие эльфов)',
@@ -96,7 +96,7 @@ savageWorldsRaces = Array(
 {
 	 id: 8,
 	 name: {
-		 'en-US': 'Half-Elf (human heritage)',
+		 'en-US': 'Półelf (ludzkie pochodzenie)',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Полуэльф (наследие людей)',
@@ -124,7 +124,7 @@ savageWorldsRaces = Array(
 {
 	 id: 11,
 	 name: {
-		 'en-US': 'Half-Orc',
+		 'en-US': 'Półork',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Полуорк',
@@ -138,7 +138,7 @@ savageWorldsRaces = Array(
 {
 	 id: 1,
 	 name: {
-		 'en-US': 'Human',
+		 'en-US': 'Człowiek',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Человек',
@@ -180,7 +180,7 @@ savageWorldsRaces = Array(
 {
 	 id: 3,
 	 name: {
-		 'en-US': 'Angel',
+		 'en-US': 'Anioł',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Ангел',
@@ -250,7 +250,7 @@ savageWorldsRaces = Array(
 {
 	 id: 16,
 	 name: {
-		 'en-US': 'Vampire',
+		 'en-US': 'Wampir',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Вампир',
@@ -264,7 +264,7 @@ savageWorldsRaces = Array(
 {
 	 id: 20,
 	 name: {
-		 'en-US': 'Werewolf',
+		 'en-US': 'Wilkołak',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Оборотень',

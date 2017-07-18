@@ -19425,7 +19425,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'D&#322;ugi j&#281;zyk',
+		 'en-US': 'Długi język',
 	},
 	 tag: 'big-mouth-minor',
 	 page: 'p28',
@@ -19439,7 +19439,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': '&#346;lepiec',
+		 'en-US': 'Ślepiec',
 	},
 	 tag: 'blind-major',
 	 page: 'p28',
@@ -19455,7 +19455,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Krwio&#380;erczy',
+		 'en-US': 'Krwiożerczy',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -19473,7 +19473,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Krwio&#380;erczy',
+		 'en-US': 'Krwiożerczy',
 	},
 	 tag: 'bloodthirsty-major',
 	 page: 'p28',
@@ -19487,7 +19487,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Ostro&#380;ny',
+		 'en-US': 'Ostrożny',
 	},
 	 tag: 'cautious-minor',
 	 page: 'p28',
@@ -19501,7 +19501,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'T&#281;pak',
+		 'en-US': 'Tępak',
 	},
 	 tag: 'clueless-major',
 	 page: 'p28',
@@ -19589,7 +19589,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': '&#346;wir',
+		 'en-US': 'Świr',
 	},
 	 tag: 'delusion-minor',
 	 page: 'p29',
@@ -19603,7 +19603,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': '&#346;wir',
+		 'en-US': 'Świr',
 	},
 	 tag: 'delusion-major',
 	 page: 'p29',
@@ -19656,7 +19656,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Wr&oacute;g',
+		 'en-US': 'Wróg',
 	},
 	 tag: 'enemy-minor',
 	 page: 'p29',
@@ -19670,7 +19670,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Wr&oacute;g',
+		 'en-US': 'Wróg',
 	},
 	 tag: 'enemy-major',
 	 page: 'p29',
@@ -19740,7 +19740,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Przyg&#322;uchy',
+		 'en-US': 'Przygłuchy',
 	},
 	 tag: 'hard-of-hearing-minor',
 	 page: 'p29',
@@ -19754,7 +19754,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Przyg&#322;uchy',
+		 'en-US': 'Przygłuchy',
 	},
 	 tag: 'hard-of-hearing-major',
 	 page: 'p29',
@@ -19875,7 +19875,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Jednor&#281;ki',
+		 'en-US': 'Jednoręki',
 	},
 	 tag: 'one-arm-major',
 	 page: 'p30',
@@ -21326,7 +21326,7 @@ savageWorldsRaces = Array(
 {
 	 id: 6,
 	 name: {
-		 'en-US': 'Dwarf',
+		 'en-US': 'Krasnolud',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Гном',
@@ -21354,7 +21354,7 @@ savageWorldsRaces = Array(
 {
 	 id: 9,
 	 name: {
-		 'en-US': 'Half-Elf (elf heritage)',
+		 'en-US': 'Półelf (elfie pochodzenie)',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Полуэльф (наследие эльфов)',
@@ -21368,7 +21368,7 @@ savageWorldsRaces = Array(
 {
 	 id: 8,
 	 name: {
-		 'en-US': 'Half-Elf (human heritage)',
+		 'en-US': 'Półelf (ludzkie pochodzenie)',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Полуэльф (наследие людей)',
@@ -21396,7 +21396,7 @@ savageWorldsRaces = Array(
 {
 	 id: 11,
 	 name: {
-		 'en-US': 'Half-Orc',
+		 'en-US': 'Półork',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Полуорк',
@@ -21410,7 +21410,7 @@ savageWorldsRaces = Array(
 {
 	 id: 1,
 	 name: {
-		 'en-US': 'Human',
+		 'en-US': 'Człowiek',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Человек',
@@ -21452,7 +21452,7 @@ savageWorldsRaces = Array(
 {
 	 id: 3,
 	 name: {
-		 'en-US': 'Angel',
+		 'en-US': 'Anioł',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Ангел',
@@ -21522,7 +21522,7 @@ savageWorldsRaces = Array(
 {
 	 id: 16,
 	 name: {
-		 'en-US': 'Vampire',
+		 'en-US': 'Wampir',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Вампир',
@@ -21536,7 +21536,7 @@ savageWorldsRaces = Array(
 {
 	 id: 20,
 	 name: {
-		 'en-US': 'Werewolf',
+		 'en-US': 'Wilkołak',
 		 'pt-BR': '',
 		 'de-DE': '',
 		 'ru-RU': 'Оборотень',

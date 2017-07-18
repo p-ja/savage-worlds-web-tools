@@ -130,7 +130,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': 'D&#322;ugi j&#281;zyk',
+		 'en-US': 'Długi język',
 	},
 	 tag: 'big-mouth-minor',
 	 page: 'p28',
@@ -144,7 +144,7 @@ savageWorldsHindrances = Array(
 },
 {
 	 name: {
-		 'en-US': '&#346;lepiec',
+		 'en-US': 'Ślepiec',
 	},
 	 tag: 'blind-major',
 	 page: 'p28',
@@ -160,7 +160,7 @@ charEffects: function ( charObj ) {
 },
 {
 	 name: {
-		 'en-US': 'Krwio&#380;erczy',
+		 'en-US': 'Krwiożerczy',
 		 'pt-BR': '',
 		 'de-DE': '',
 	},
@@ -178,7 +178,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Krwio&#380;erczy',
+		 'en-US': 'Krwiożerczy',
 	},
 	 tag: 'bloodthirsty-major',
 	 page: 'p28',
@@ -192,7 +192,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'Ostro&#380;ny',
+		 'en-US': 'Ostrożny',
 	},
 	 tag: 'cautious-minor',
 	 page: 'p28',
@@ -206,7 +206,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': 'T&#281;pak',
+		 'en-US': 'Tępak',
 	},
 	 tag: 'clueless-major',
 	 page: 'p28',
@@ -294,7 +294,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': '&#346;wir',
+		 'en-US': 'Świr',
 	},
 	 tag: 'delusion-minor',
 	 page: 'p29',
@@ -308,7 +308,7 @@ charObj.getDerived().charisma = charObj.getDerived().charisma - 4;
 },
 {
 	 name: {
-		 'en-US': '&#346;wir',
+		 'en-US': 'Świr',
 	},
 	 tag: 'delusion-major',
 	 page: 'p29',
@@ -361,7 +361,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Wr&oacute;g',
+		 'en-US': 'Wróg',
 	},
 	 tag: 'enemy-minor',
 	 page: 'p29',
@@ -375,7 +375,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Wr&oacute;g',
+		 'en-US': 'Wróg',
 	},
 	 tag: 'enemy-major',
 	 page: 'p29',
@@ -445,7 +445,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Przyg&#322;uchy',
+		 'en-US': 'Przygłuchy',
 	},
 	 tag: 'hard-of-hearing-minor',
 	 page: 'p29',
@@ -459,7 +459,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Przyg&#322;uchy',
+		 'en-US': 'Przygłuchy',
 	},
 	 tag: 'hard-of-hearing-major',
 	 page: 'p29',
@@ -580,7 +580,7 @@ charEffects: function (charObj) {
 },
 {
 	 name: {
-		 'en-US': 'Jednor&#281;ki',
+		 'en-US': 'Jednoręki',
 	},
 	 tag: 'one-arm-major',
 	 page: 'p30',
